@@ -1,0 +1,28 @@
+body{
+	margin: 0 auto;
+	background-image: url(https://pre00.deviantart.net/ad54/th/pre/f/2013/216/f/8/dota_2_blue_team_by_mikeazevedo-d6gh74t.jpg);
+	background-size: cover;
+}
+.ilovedota2logo{
+	width: 200px;
+}
+.texthead{
+	margin-top: -31px;
+    font-size: 30px;
+    color: #9c2816;
+}
+.box{
+    margin: 0 auto;
+    width: 25%;
+    background: #000000d9;
+    min-height: 200px;
+    text-align: center;
+    border-radius: 6px 99px 6px;
+}
+.link{
+    text-decoration: none;
+    color: red;
+    font-size: 20px;
+    display: inherit;
+    margin-top: 27px;
+}
